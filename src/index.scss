@@ -1,0 +1,13 @@
+@import '../src/assets/css/style.css';
+//simonwep colorpicker
+@import "@simonwep/pickr/dist/themes/classic.min.css";
+@import "@simonwep/pickr/dist/themes/monolith.min.css";
+@import "@simonwep/pickr/dist/themes/nano.min.css";
+
+
+// _header.scss
+.your-class {
+    @apply bg-light; // Apply the bg-light class
+    // Other styles here
+  }
+  
